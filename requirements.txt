@@ -1,0 +1,9 @@
+numpy
+matplotlib
+tqdm
+tensorflow
+keras
+pillow
+os
+glob
+argparse
