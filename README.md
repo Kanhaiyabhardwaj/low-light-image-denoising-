@@ -33,5 +33,7 @@ pip install -r requirements.txt
 
 ## Results
 
-![Img1](https://drive.google.com/uc?export=view&id=1INNkD2996tV4zxLubMzfbGuHOD-9PQQs)
-![Img](https://drive.google.com/uc?export=view&id=1bkjB3CgpLf6lj9ByFek0OQ8hlktVfZO2)
+![Result 1](https://drive.google.com/uc?export=view&id=1INNkD2996tV4zxLubMzfbGuHOD-9PQQs)
+
+![Result 2](https://drive.google.com/uc?export=view&id=1bkjB3CgpLf6lj9ByFek0OQ8hlktVfZO2)
+
