@@ -7,6 +7,7 @@ This project implements the MIRNet model for enhancing low-light images using th
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
+- [Result](#result)
 
 
 ## Introduction
@@ -26,14 +27,15 @@ this is the command to integrate the dataset
 
 To get started, clone this repository and install the required dependencies:
 
-```bash
+bash
 git clone https://github.com/yourusername/mirnet-lowlight-enhancement.git
 cd mirnet-lowlight-enhancement
 pip install -r requirements.txt
 
+
 ## Results
 
+The results obtained on the train, val and the test dataset are: 
 ![Result 1](https://drive.google.com/uc?export=view&id=1INNkD2996tV4zxLubMzfbGuHOD-9PQQs)
 
 ![Result 2](https://drive.google.com/uc?export=view&id=1bkjB3CgpLf6lj9ByFek0OQ8hlktVfZO2)
-
